@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,nextjs,macos,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,nextjs,macos,visualstudio
 
+
+*.db
+
+
 ### macOS ###
 # General
 .DS_Store
